@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://babyloncreations.co.za/sitemap.xml
